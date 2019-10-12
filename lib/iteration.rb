@@ -1,4 +1,5 @@
-def join_ingredients(src)
+def join_ingredients(src){
+  food_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
   
 end
 
